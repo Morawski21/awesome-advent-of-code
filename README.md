@@ -40,6 +40,7 @@ This is a collection of awesome resources related to the yearly
     * [Pony](#pony)
     * [PowerShell](#powershell)
     * [Python](#python)
+    * [R](#r)
     * [Racket](#racket)
     * [ReasonML](#reasonml)
     * [Red](#red)
@@ -232,6 +233,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
 * [Dementophobia/advent-of-code-2019](https://github.com/Dementophobia/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Dementophobia/advent-of-code-2019.svg)
 * [Levivig/AdventOfCode2019](https://github.com/Levivig/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Levivig/AdventOfCode2019.svg)
+
+#### R
+
+*Solutions to AoC in R.*
+
+* [Morawski21/Advent-of-Code-2019-in-R](https://github.com/Morawski21/Advent-of-Code-2019-in-R)
 
 #### Racket
 
